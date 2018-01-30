@@ -1,0 +1,3 @@
+# Activar RewriteEngine
+RewriteEngine on
+RewriteRule ^([a-zA-Z_]*)?$ index.php?c=$1&%{QUERY_STRING} [NC]

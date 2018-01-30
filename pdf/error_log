@@ -1,0 +1,16 @@
+[13-Aug-2016 05:21:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 45
+[13-Aug-2016 05:21:46 UTC] PHP Notice:  Undefined variable: hijo_dia in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[13-Aug-2016 05:21:46 UTC] PHP Notice:  Undefined variable: hijo_mes in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[13-Aug-2016 05:21:46 UTC] PHP Notice:  Undefined variable: hijo_anho in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[06-Oct-2016 15:34:58 UTC] PHP Notice:  Undefined variable: hijo_dia in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[06-Oct-2016 15:34:58 UTC] PHP Notice:  Undefined variable: hijo_mes in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[06-Oct-2016 15:34:58 UTC] PHP Notice:  Undefined variable: hijo_anho in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[19-Oct-2016 07:18:30 UTC] PHP Notice:  Undefined variable: hijo_dia in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[19-Oct-2016 07:18:30 UTC] PHP Notice:  Undefined variable: hijo_mes in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[19-Oct-2016 07:18:30 UTC] PHP Notice:  Undefined variable: hijo_anho in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:25:43 UTC] PHP Notice:  Undefined variable: hijo_dia in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:25:43 UTC] PHP Notice:  Undefined variable: hijo_mes in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:25:43 UTC] PHP Notice:  Undefined variable: hijo_anho in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:43:48 UTC] PHP Notice:  Undefined variable: hijo_dia in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:43:48 UTC] PHP Notice:  Undefined variable: hijo_mes in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582
+[26-Oct-2016 03:43:48 UTC] PHP Notice:  Undefined variable: hijo_anho in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/pdf/index.php on line 582

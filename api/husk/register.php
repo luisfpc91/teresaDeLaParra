@@ -1,0 +1,6 @@
+<?php
+	if(local!='asjdhak23897ad'){
+		exit();}					use LEANGA\Handler_Database;
+	$name		= $_POST['name'];	$phone		= $_POST['phone'];	$address	= $_POST['address'];	$email		= $_POST['email'];	$password	= $_POST['password'];			$table = Handler_Database::$TABLE_USERS;	$where = Array(		Handler_Database::$OPERATOR_EQUAL => array(			Handler_Database::$TABLE_USERS_EMAIL => $email		)	);	if(!$db->selectTable($table,$where)){		$hashed = password_hash($password , PASSWORD_DEFAULT);		$session = password_hash(time().$password.$email , PASSWORD_DEFAULT);		$fields = array(			Handler_Database::$TABLE_USERS_PRIV			=>	0,			Handler_Database::$TABLE_USERS_NOMBRE		=>	$name,			Handler_Database::$TABLE_USERS_EMAIL		=>	$email,			Handler_Database::$TABLE_USERS_PASSWORD		=>	$hashed,			Handler_Database::$TABLE_USERS_TELEFONO		=>	$phone,			Handler_Database::$TABLE_USERS_DIRECCION	=>	$address,			Handler_Database::$TABLE_USERS_SESSION_ID	=>	$session,			Handler_Database::$TABLE_USERS_CREATED		=>	time(),			Handler_Database::$TABLE_USERS_LAST_SESSION	=>	time()		);				if($db->insertTable($table,$fields)){			session_start();			$_SESSION['session'] = $session;			$return = array("e"=>0);		}else			$return = array("e"=>2);	}else{		$return = array("e"=>1);	}
+		
+?>

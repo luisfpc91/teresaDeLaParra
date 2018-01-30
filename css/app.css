@@ -1,0 +1,210 @@
+ul{
+	max-height:680px;
+	overflow-y:auto;
+}
+
+#general_progress{
+	display: none;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 999999999;
+	width: 100%;
+	height: 10px;
+	}
+
+.myprogress{
+	width: 100%;
+	height: 100%;
+}
+
+.determinate {
+    background-color: #0277bd !important;
+	height:100%;
+}
+
+.edit{
+	color:green;
+	cursor: pointer;
+}
+.remove{
+	color:red;
+	cursor: pointer;
+}
+.titulo_lista{
+	margin-top:0px;
+}
+.sexo{
+	margin-bottom:11%;
+}
+.nacionalidad{
+	margin-bottom:11%;
+}
+.list{
+	max-height:1000px;
+} 
+.celda{ 
+	vertical-align:middle !important;
+}
+.con{
+	margin-bottom:3%;
+}
+.vacunas{
+	display:inline !important;
+	margin-left:5%;
+}
+.vacu{
+	margin-left:5%;
+}
+.imp_motor{
+	display:inline !important;
+}
+.imp_motor2{
+	margin-left:10%;
+}
+.enfermedades{
+	display:inline !important; 
+	margin-left:1%;
+}
+.otras{
+	display:inline !important;
+	width: 14% !important;
+}
+.parto{
+	margin-left:6%;
+}
+.dos{
+	margin-left:2%;
+}
+.block{
+	display:block;
+}
+.tipo_musica{
+	margin-top:3%;
+}
+.actitud{
+	width:75% !important;
+	display:inline !important;
+}
+.actitud_label{
+	display:inline !important;
+}
+#btn-buscar{
+	margin-top:9%;
+	margin-left:10%;
+}
+.adultos{
+	color:#18bc9c;
+	font-weight:bold;	
+	font-size:130%;
+}
+.hijo{
+	color:#18bc9c;
+	font-weight:bold;	
+	font-size:130%;
+	margin-top:10%;
+}
+ul li{
+	list-style:none;
+} 
+.footer_pagina{
+	width:100% !important;
+	bottom:0;
+	position:relative !important;
+}
+.footer_pagina2{
+	width:100% !important;
+	bottom:0;
+	position:fixed !important;
+}
+.img_welcome{
+	width:100% !important;
+	bottom:0;
+	position:relative !important;
+	padding-top:15px;
+}
+.footer_welcome{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+.footer{
+	margin-top:5%;
+	width:100% !important;
+	position:static !important;
+	height:4%;
+	color:white;
+	background-color:#18bc9c;
+	text-align:center;
+	bottom:0;	
+}
+.footer2{
+	margin-top:5%;
+	width:100% !important;
+	position:fixed !important;
+	height:4%;
+	color:white;
+	background-color:#18bc9c;
+	text-align:center;
+	bottom:0;	
+}
+.footer3{
+	margin-top:5%;
+	width:100% !important;
+	position:relative !important;
+	height:4%;
+	color:white;
+	background-color:#18bc9c;
+	text-align:center;
+	bottom:0;	
+}
+#logo{
+	width:100px;
+	height:100px;
+}
+#nombre{
+	width:300px;
+	height:50px;
+}
+.mensaje_padres{
+	text-align:justify;
+}
+.mensaje_dir{
+	text-align:right; 
+}
+.inline{
+	display:inline;
+}
+.block{
+	display:block;
+}
+.medio{
+	vertical-align:middle !important;
+}
+.text{
+	text-align:justify;
+}
+.texto{
+	margin-left:3%;
+	font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size:20px;
+	text-decoration:none;
+	color:black;
+}
+.a{
+	margin-bottom:2%;
+}
+.logos{
+	width:50px;
+	height:50px;
+}
+.glyphicon_logo{
+	font-size:35px !important;
+	width:100%;
+}
+.margin{
+	margin-top:2%;
+}
+.tamanho{
+	width:100%;
+}

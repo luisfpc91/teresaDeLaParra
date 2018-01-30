@@ -1,0 +1,68 @@
+[17-Aug-2016 20:00:39 UTC] PHP Fatal error:  Class 'LEANGA\Handler_Mail' not found in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/api/husk/contacto.php on line 12
+[17-Aug-2016 20:13:07 UTC] PHP Fatal error:  Class 'LEANGA\Handler_Mail' not found in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/api/husk/contacto.php on line 12
+[17-Aug-2016 20:17:44 UTC] PHP Fatal error:  Class 'LEANGA\Handler_Mail' not found in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/api/husk/contacto.php on line 12
+[17-Aug-2016 20:21:12 UTC] You must provide at least one recipient email address.
+[25-Aug-2016 21:55:53 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 21:55:53 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 21:59:52 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 21:59:52 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 22:00:58 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 22:00:58 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 23:19:31 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 23:19:31 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 23:20:04 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[25-Aug-2016 23:20:04 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[26-Aug-2016 00:02:01 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[26-Aug-2016 00:02:01 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[29-Aug-2016 16:46:22 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[29-Aug-2016 16:46:22 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[30-Aug-2016 16:47:31 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[30-Aug-2016 16:47:31 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:09:17 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:09:17 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:11:45 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:11:45 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:26:11 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:26:11 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:27:24 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[10-Sep-2016 21:27:24 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[29-Sep-2016 19:49:26 UTC] Array
+(
+    [hijo_apellido] => peña
+    [hijo_nombre] => sara
+    [hijo_nacionalidad] => E
+    [hijo_peso] => 20
+    [hijo_talla] => 10
+    [hijo_sexo] => F
+    [hijo_cedula_escolar] => 15668888
+    [hijo_direccion] => Tariba
+    [hijo_telefono] => 12312345
+    [hijo_estado] => Aragua
+    [hijo_municipio] => maracay
+    [hijo_ciudad] => Maracay
+    [hijo_fechaN] => 18-10-2011
+    [hijo_nivel] => M
+    [hijo_status] => 1
+)
+
+[29-Sep-2016 19:49:26 UTC] 5
+[29-Sep-2016 19:49:26 UTC] Array
+(
+    [id_estudiante] => 19
+    [id_madre] => 1
+    [id_padre] => 2
+    [id_rl] => 2
+)
+
+[06-Oct-2016 15:32:41 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[06-Oct-2016 15:32:41 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[16-Oct-2016 22:43:37 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[16-Oct-2016 22:43:37 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[17-Oct-2016 18:17:03 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[17-Oct-2016 18:17:03 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[17-Oct-2016 18:18:18 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[17-Oct-2016 18:18:18 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[19-Oct-2016 06:23:52 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[19-Oct-2016 06:23:52 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[19-Oct-2016 07:10:41 UTC] PHP Notice:  Undefined index: start in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143
+[19-Oct-2016 07:10:41 UTC] PHP Notice:  Undefined index: max in /home/leifermendez/public_html/prestados.xyz/teresadelaparra/LEANGA/Entities/Handler_Usuario.php on line 143

@@ -1,0 +1,9 @@
+Options -Indexes
+
+# Activar RewriteEngine
+RewriteEngine on
+ 
+# Reescribir la URL solicitada por el usuario
+#   Entrada:  clientes/NOMBRE/
+#   Salida: clientes.php?id=NOMBRE
+RewriteRule ^([a-zA-Z_]*)(\.json|\.xml)?\/?$ index.php?a=$1&t=$2&%{QUERY_STRING} [NC]

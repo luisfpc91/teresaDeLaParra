@@ -1,0 +1,89 @@
+<title></title>
+<div class="container-fluid">
+	<div class="row">
+		<br/>
+		<div class="col-md-12">
+			<div class="col-md-6">
+				<div class="col-md-12">
+					<span class="col-md-3">
+						<img src="teresadelaparra../../files/images/escudo.png" style="width:100px; height:100px;"></img>
+					</span>
+					<h3 class="col-md-9 text-center" style="padding-right: 20%; padding-top:3%; font-size30px; ">
+						Bienvenidos
+					</h3>
+				</div>
+				<span class="clearfix"></span>
+				<blockquote style="border-left:0px !important; margin-top:20px;">
+					<p class="mensaje_padres">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La familia que conforma la Escuela Educación Inicial Colegio Teresa de la Parra
+						queremos darle la Bienvenida a nuestra página web.
+					</p>
+					<footer style="color:rgb(132, 123, 123) !important;">
+						La Dirección. 
+					</footer>
+				</blockquote>
+				<p class="text-justify" style="margin-top:6%; font-size:24px;">
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="text-danger">*</i> Comenzamos las inscripciones para el año escolar 2016-2017 el 6 de Septiembre, contactanos para más información. 
+				</p>		
+			</div>
+			<div class="col-md-6">
+				<br/>
+				<section class="demo_wrapper">
+					<article class="demo_block">
+						<ul id="demo1">
+							<li><img src="teresadelaparra../../files/images/esc1.png" alt=""></li>
+							<li><img src="teresadelaparra../../files/images/esc2.png" alt=""></li>
+							<li><img src="teresadelaparra../../files/images/esc3.png" alt=""></li>
+						</ul>
+					</article>
+				</section>
+			</div>
+		</div>	
+	</div>		
+</div>
+<br/>
+<footer class="footer_welcome">
+	<img class="img-responsive img_welcome" src="teresadelaparra../../files/images/tren1.png"/>
+</footer>
+<script>
+	$(function() {
+		var demo1 = $("#demo1").slippry({
+			// transition: 'fade',
+			// useCSS: true,
+			// speed: 1000,
+			// pause: 3000,
+			// auto: true,
+			// preload: 'visible',
+			// autoHover: false
+		});
+
+		$('.stop').click(function () {
+			demo1.stopAuto();
+		});
+
+		$('.start').click(function () {
+			demo1.startAuto();
+		});
+
+		$('.prev').click(function () {
+			demo1.goToPrevSlide();
+			return false;
+		});
+		$('.next').click(function () {
+			demo1.goToNextSlide();
+			return false;
+		});
+		$('.reset').click(function () {
+			demo1.destroySlider();
+			return false;
+		});
+		$('.reload').click(function () {
+			demo1.reloadSlider();
+			return false;
+		});
+		$('.init').click(function () {
+			demo1 = $("#demo1").slippry();
+			return false;
+		});
+	});
+</script>
